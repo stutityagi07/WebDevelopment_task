@@ -53,3 +53,21 @@ npm run dev
 ## About the Project
 
 This project was built as part of a web development learning task. The main goal was to understand the fundamentals of React and use them to create a functional single-page application.
+
+## Screenshots
+
+### Main Dashboard
+
+![Main Dashboard](screenshots/main-dashboard.png)
+
+### Completed Tasks
+
+![Completed Filter](screenshots/completed-filter.png)
+
+### Pending Tasks
+
+![Pending Filter](screenshots/pending-filter.png)
+
+## Demo
+
+[Watch the demo video](https://drive.google.com/file/d/1ghSUW6QqBYKwkKfPh3pDBG-fdD41PiEn/view?usp=sharing)
