@@ -40,3 +40,16 @@ A simple single-page study task tracker built using React.
 
 ```bash
 npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+5. Open the local URL shown in the terminal.
+
+## About the Project
+
+This project was built as part of a web development learning task. The main goal was to understand the fundamentals of React and use them to create a functional single-page application.
